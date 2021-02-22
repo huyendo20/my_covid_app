@@ -1,0 +1,8 @@
+bin/
+deploy_app/
+include/
+lib/
+lib64
+share/
+pyvenv.cfg
+require_backup.txt
